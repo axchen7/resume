@@ -13,6 +13,9 @@
 *-converted-to.*
 <<<<<<< HEAD
 
+## Output documents:
+*.synctex.gz
+
 ### Editor ###
 ## Vim & Emacs temp files:
 .*sw[op]
